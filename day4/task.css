@@ -34,7 +34,7 @@ body{
     font-size: 2em;
     color: white;
     position: absolute;
-    right: 540px;
+    left: 430px;
     top: 250px;
 }
 .image button{
@@ -42,7 +42,7 @@ body{
     height: 60px;
     position: absolute;
     top: 80px;
-    right: 150px;
+    left: 170px;
     /* left: 40px; */
     color: white;
     padding: 8px 16px;
@@ -61,7 +61,7 @@ body{
     margin-right: auto;
 }
 .child{
-    width: 380px;
+    width: 250px;
     height: 200px;
     margin-left: 40px;
     padding: 8px 16px;
@@ -136,11 +136,14 @@ body{
     width: 150px;
     height: 60px;
     color: white;
-    margin-top: 20px;
-    margin-left: 120px;
+    margin-bottom:20px;
+    top: 20px;
+    margin-left: 880px;
     padding: 8px 16px;
     border-radius: 4px;
     background-color: red;
+    position:absolute;
+    bottom:100px;
 
 }
 .time{
@@ -190,7 +193,7 @@ body{
     display: inline-block;
 }
 .types{
-    width: 23.99%;
+    width:20%;
     height: 680px;
     margin-top: 20px;
     margin-left: 90px;
